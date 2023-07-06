@@ -1,0 +1,33 @@
+html, body {
+  margin: 0;
+  height: 100%;
+  overflow: hidden;
+}
+
+canvas {
+  display: block;
+}
+
+.greeting{
+  font-size: 100px;
+  margin-right: 700px;
+}
+
+.customButton {
+  width:580px;
+  height:150px;
+  background-color: #fea834;
+
+  color: lightblue;
+  font-weight:bold;
+  border-radius: 10px;
+  
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  font-family: vollkorn;
+  margin: 4px 2px;
+  outline: none;
+}
+
